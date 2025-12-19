@@ -4,12 +4,12 @@ An API scraper for fetching free games and mystery games from the Epic Games Sto
 
 ## Features
 
-- 🎮 Fetch currently free games from Epic Games Store
-- 🎁 Detect and track upcoming mystery/locked games
-- ⏰ Countdown timers for game expiry and unlock times
-- 📊 Comprehensive game metadata (developer, publisher, genres, features)
-- 🖼️ Multiple image formats (thumbnail, portrait, landscape, logo)
-- 🔄 Real-time data from Epic's official API
+- Fetch currently free games from Epic Games Store
+- Detect and track upcoming mystery/locked games
+- Countdown timers for game expiry and unlock times
+- Comprehensive game metadata (developer, publisher, genres, features)
+- Multiple image formats (thumbnail, portrait, landscape, logo)
+- Real-time data from Epic's official API
 
 ## Installation
 
