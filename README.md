@@ -1,4 +1,4 @@
-# Epic Games Free Games API
+# Epic Games Scraper
 
 An API scraper for fetching free games and mystery games from the Epic Games Store.
 
